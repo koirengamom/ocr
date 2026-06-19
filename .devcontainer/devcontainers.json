@@ -1,4 +1,4 @@
 {
-    "name":"OCR",
+    "name":"python 3.11",
     "image":"mcr.microsoft.com/devcontainers/python:3.11"
 }
