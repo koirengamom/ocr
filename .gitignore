@@ -12,6 +12,12 @@ __pycache__/
 # PaddleOCR Models
 .paddlex/
 
+# Input
+input/
+
+# output
+output/
+
 # Logs
 *.log
 
